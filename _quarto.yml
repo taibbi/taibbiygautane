@@ -10,10 +10,12 @@ website:
         text: Home
       - href: Research.qmd
         text: Research
-      - href: https://jkbirnir.github.io/GVPT729B/
-        text: GVPT729B
       - href: Teaching.qmd
         text: Teaching
+      - href: CV.qmd
+        text: CV
+      - href: https://jkbirnir.github.io/GVPT729B/
+        text: GVPT729B
 
 format:
   html:
