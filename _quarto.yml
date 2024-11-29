@@ -3,16 +3,19 @@ project:
   output-dir: docs
 
 website:
-  title: "taibbiygautane1"
+  title: "Taib Biygautane"
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: Research.qmd
+        text: Research
+      - href: https://jkbirnir.github.io/GVPT729B/
+        text: GVPT729B
 
 format:
   html:
-    theme: cosmo
+    theme: Zephyr
     css: styles.css
     toc: true
 
