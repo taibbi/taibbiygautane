@@ -14,8 +14,8 @@ website:
         text: Teaching
       - href: CV.qmd
         text: CV
-      - href: https://jkbirnir.github.io/GVPT729B/
-        text: GVPT729B
+      - href: https://github.com/taibbi/taibbiygautane/blob/main/docs/GVPT729B%20data_project.pdf
+        text: Data
 
 format:
   html:
