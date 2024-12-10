@@ -1,12 +1,14 @@
 project:
   type: website
   output-dir: docs
+ 
+
 
 website:
   title: "Taib Biygautane"
   navbar:
     left:
-      - href: index.qmd
+      - href: Home.qmd
         text: Home
       - href: Research.qmd
         text: Research
@@ -22,5 +24,7 @@ format:
     theme: Zephyr
     css: styles.css
     toc: true
+    options:
+      page-width: auto
 
 editor: visual
